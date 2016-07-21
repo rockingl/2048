@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="score">得分：</string>
+    <string name="action_settings">Settings</string>
+</resources>
